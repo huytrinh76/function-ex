@@ -1,5 +1,5 @@
-# Reverse Object
-Tên tiếng Việt: Đảo ngược Object.
+# Split by length
+Tên tiếng Việt: Cắt theo độ dài
 
 ## Yêu cầu
 Hãy viết một ***function*** có tên là **splitByLength** gồm có hai tham số lần lượt là một chuỗi và chiều dài muốn cắt.
