@@ -32,3 +32,6 @@ Vậy chữ `hi` sẽ có mã morse là kết hợp của `h` và `i`, ta đư�
 
 ## Kiểm thử
 Nhấn [vào đây](https://repl.it/@rknguyen/Morse-encode) để kiểm thử hàm của mình.
+
+## Bài tiếp theo
+[Bài 4: Morse decode](./morse-decode.md)
