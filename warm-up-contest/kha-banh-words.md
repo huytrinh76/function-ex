@@ -2,13 +2,13 @@
 Tên tiếng Việt: NhỮnG cHuỖi KhÁ bẢnH
   
 ## Yêu cầu  
-Hãy viết một ***function*** có tên là **khaBanhWords** gồm có một tham số là một chuỗi ký tự.
+Hãy viết một ***function*** có tên là **khaBanh** gồm có một tham số là một chuỗi ký tự.
 
 Hàm trả về một chuỗi phong cách KhÁ bẢnH.
 
 ## Ví dụ  
 ```  
-> khaBanhWords("Hello")
+> khaBanh("Hello")
 > "HeLlO"
 ```  
   
