@@ -2,6 +2,8 @@
 Tên tiếng Việt: Sắp xếp ngủ
 
 ## Yêu cầu
+**Sử dụng Async/Await/Promise**
+
 Hãy viết một ***function*** có tên là **sleepSort** gồm có một tham số là một mảng các số nguyên.
 
 Hàm trả về một mảng được sắp xếp tăng dần theo thuật toán **sleep sort**.
