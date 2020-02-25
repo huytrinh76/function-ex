@@ -12,5 +12,9 @@ Hàm trả về một object gồm key là phần tử trong mảng và giá tr�
 > { d: [0, 2], o: [1, 3] }
 ```  
   
+## Hint
+
+https://stackoverflow.com/questions/1966476/how-can-i-process-each-letter-of-text-using-javascript
+
 ## Kiểm thử  
 Nhấn [vào đây](https://repl.it/@rknguyen/Map-the-Letters-in-a-String) để kiểm thử hàm của mình.

@@ -22,6 +22,3 @@ Có một object như bên dưới.
 
 ## Kiểm thử
 Nhấn [vào đây](https://repl.it/@rknguyen/Reverse-Object) để kiểm thử hàm của mình.
-
-## Bài tiếp theo
-[Bài 2: Split by length](./split-by-length.md)
